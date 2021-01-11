@@ -3,10 +3,10 @@ This programming project deals with a common problem: Converting data from multi
 participants into a form that we can work with. The log files from several participants were automatically created by the experiment presenting software Presentation. The provided code reads in the data, restructures it and statistically analyses it.
 
 # Experimental design
-The experiment is a variation of a task by Mier and colleagues published among others in:
+The experiment is a variation of a task by Mier and colleagues published among others in:\
 Mier, D., Lis, S., Neuthe, K., Sauer, C., Esslinger, C., Gallhofer, B., & Kirsch, P. (2010). The
 involvement of emotion recognition in affective theory of mind. Psychophysiology, 47(6),
-1028-1039.
+1028-1039.\
 In this experiment, participants see a sentence followed by four pictures of faces. Their
 task is to decide as quickly as possible whether the sentence accurately describes the face.
 The faces portray the following emotions: fear, anger, happiness. The sentences require
