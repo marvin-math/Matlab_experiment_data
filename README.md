@@ -1,4 +1,4 @@
-# Matlab_experiment_data
+# Overview
 This programming project deals with a common problem: Converting data from multiple
 participants into a form that we can work with. The log files from several participants were automatically created by the experiment presenting software Presentation. The provided code reads in the data, restructures it and statistically analyses it.
 
@@ -21,5 +21,5 @@ There are 216 presentations of the faces in total, 12 per condition. Each child 
 shown once with each emotion in each task condition. The sentences used are always the
 same.
 
-# how to execute the code
+# How to Execute the Code
 Please save the participants data and the data_analysis_file in the same folder. Then just run the data_analysis file and all tasks will be executed.
