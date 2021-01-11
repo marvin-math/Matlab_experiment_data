@@ -13,10 +13,10 @@ The faces portray the following emotions: fear, anger, happiness. The sentences 
 the participants either to judge the appearance regardless of emotion (control condition),
 the emotion portrayed (affect recognition) or make an inference on a likely action (theory
 of mind). Half of the faces are adults, the other half children. Therefore, there are three
-factors to consider:
-● Task: control, theory of mind, affect recognition
-● Emotion: fear, anger, happiness
-● Protagonist: child, adult
+factors to consider:\
+● Task: control, theory of mind, affect recognition\
+● Emotion: fear, anger, happiness\
+● Protagonist: child, adult\
 There are 216 presentations of the faces in total, 12 per condition. Each child and adult is
 shown once with each emotion in each task condition. The sentences used are always the
 same.
