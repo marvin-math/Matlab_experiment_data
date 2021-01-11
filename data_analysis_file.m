@@ -1,13 +1,13 @@
 
-%Hi Irene, please save this file to the folder where you saved the
-%participants data. The code operates on te current folder. The functions
-%are, against our class convention saved at the end of this file. This is
+%Please save this file to the folder where you saved the
+%participants data. The code operates on the current folder. The functions
+%are saved at the end of this file. This is
 %just because I thought it neater for you just having to download one file
 %in the correct folder.
 %you can just run the whole file. All tasks will be executed.
 
 
-%task 1
+% read in the data of the Participants and restructure it. One .csv file per participant.
 all_files = dir(pwd);
 sub_files = dir([pwd filesep '*-face_task.log']);
 nos = size(sub_files,1);
@@ -60,7 +60,7 @@ for j=1:nos
 end
 
 
-%task 2
+% statistical analysis of the data
 sub_files_2 = dir([pwd filesep 'proband*.csv']);
 nos2 = size(sub_files_2,1);
 final_table = [];
